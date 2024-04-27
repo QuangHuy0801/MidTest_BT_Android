@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menuStatistic" android:title="@string/menu_thong_ke" android:icon="@drawable/icon_statistic" app:showAsAction="always"/>
+    <item android:id="@+id/menuExercise7" android:title="@string/menu_bai_7" android:icon="@drawable/icon_exercise" app:showAsAction="always"/>
+    <item android:id="@+id/menuExercise8" android:title="@string/menu_bai_8" android:icon="@drawable/icon_exercise" app:showAsAction="always"/>
+</menu>

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "773887740542",
+    "firebase_url": "https://bai11-bef0c-default-rtdb.firebaseio.com",
+    "project_id": "bai11-bef0c",
+    "storage_bucket": "bai11-bef0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773887740542:android:73870f0514f7da5037e62f",
+        "android_client_info": {
+          "package_name": "com.example.bai10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtuwC1vaeq1D9GJDJ-v9CZ4sIAzmY-v0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773887740542:android:d18ae1ca2d438fef37e62f",
+        "android_client_info": {
+          "package_name": "com.example.midtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtuwC1vaeq1D9GJDJ-v9CZ4sIAzmY-v0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MIDTEST</string>
+    <string name="menu_thong_ke">THỐNG KÊ</string>
+    <string name="menu_bai_7">BÀI 7</string>
+    <string name="menu_bai_8">BÀI 8</string>
+    <string name="header_name">Võ Quang Huy</string>
+    <string name="header_test">MID TEST ANDROID</string>
+    <!-- Statistic-->
+    <string name="title_doanh_thu">Thống kê doanh thu theo mặt hàng</string>
+    <string name="text_doanh_thu">Xem thông tin về doanh thu theo mặt hàng của cửa hàng</string>
+    <string name="title_san_pham_ban_ra">Thống kê sản phẩm bán ra</string>
+    <string name="text_san_pham_ban_ra">Xem thống kê về tổng số lượng sản phẩm được bán ra</string>
+    <string name="title_san_pham">Thống kê sản phẩm</string>
+    <string name="text_san_pham">Xem thống kê về tổng số lượng sản phẩm và phân loại của chúng trong kho</string>
+    <string name="title_don_vi_san_pham">Thống kê đơn vị sản phẩm</string>
+    <string name="text_don_vi_san_pham">Xem thống kê về tổng số lượng đơn vị sản phẩm và phân loại của chúng trong kho</string>
+    <string name="title_khach_hang">Thống kê khách hàng</string>
+    <string name="text_khach_hang">Xem thống kê về lượng mua hàng ở những độ tuổi khác nhau của khách hàng</string>
+    <string name="title_theo_thang">Thống kê doanh thu theo tháng</string>
+    <string name="text_theo_thang">Xem thống kê về doanh thu theo tháng trong 1 năm</string>
+    <string name="btn_bat_dau">BẮT ĐẦU</string>
+    <string name="btn_export_file">XUẤT BÁO CÁO</string>
+    <string name="btn_chon_ngay">CHỌN NGÀY</string>
+    <!--    Excersise-->
+    <string name="header_titel_7">Võ Quang Huy_Bài 7</string>
+    <string name="header_titel_8">Võ Quang Huy_Bài 8</string>
+    <string name="text_danh_sach_san_pham">Danh sách sản phẩm</string>
+    <string name="btn_thong_bao">THÔNG BÁO</string>
+    <string name="btn_them">THÊM</string>
+    <string name="hint_nhap_thong_bao">Nhập thông báo</string>
+    <string name="hint_nhap_tensp">Nhập tên sản phẩm</string>
+    <string name="hint_nhap_giasp">Nhập giá sản phẩm</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Mở Menu</string>
+    <string name="navigation_drawer_close">Mở Menu</string>
+</resources>
